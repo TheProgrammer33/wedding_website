@@ -31,7 +31,8 @@ h3 {
     margin: 0;
 }
 
-p {
+p,
+a {
     font-family: Georgia;
     font-size: 1.5rem;
     color: #333333;
